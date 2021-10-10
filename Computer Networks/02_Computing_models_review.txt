@@ -1,0 +1,5 @@
+1 Overveiw
+Batch processing
+* Пользователь создает batch (какой-то набор данных и кода (возможно)) и закидывает его на сервер. Сервер потом, в порядке очереди, запустит твой batch.
+* Используется в Remote Job Entry (RJE) и в Autonomous agents (bots).
+* Суперкомпютер является примером batch processing.
