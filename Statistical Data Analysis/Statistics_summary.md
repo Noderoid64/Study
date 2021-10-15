@@ -61,7 +61,7 @@ h = max-min/k (h - ширина интервала) <br>
 ### 3.2 Measure of variation
 Тяжело понять какая выборка по Mean, Median или Mode. Поэтому есть еще показатели:<br>
 **Range** - x(max)-x(min)=R <br>
-**Variance** - самая популярная это $s^2$;
+**Variance (Дисперсия)** - самая популярная это $s^2$;
 - Non-weighted form: $s^2$=$\sum_{i=1}^{n} (x_i-\bar{x})^2/(n-1)$
 - Weighted form: $s^2=\sum_{i=1}^n(x_i-\bar{x})^2*n_i/(n-1)$ 
 
@@ -75,3 +75,18 @@ Notes about variance and standard deviation:
 
 **Coefficient of variation** - expresses relative dispersion. Values higher than 0.5 indicate very large variability.
 - v = $s/\bar{x}$
+
+### 3.3 Exploratory data analysis.
+**Five-number summary** -  это data set, который состоит из:
+$x_{min} < \bar{x}_{0.25} < \bar{x} (mediane) < \bar{x}_{0.75} < x_{max}$
+
+**Quartiles** - $\bar{x}_{0.25}$ - 25% значений всей выборки будет меньше чем $\bar{x}_{0.25}$ и остальные 75% будут больше чем.
+
+**Interquartile (IQR)** - Измеряет разброс между первым и третьим квартилем:<br>
+IQR =  $\bar{x}_{0.75} - \bar{x}_{0.25}$<br>
+
+**Outliers** - Individuals that is located very far away from almost all of the other.<br>
+Outlier is:
+- value below $\bar{x}_{0.25}$ by more than 1.5 * IQR
+- value above $\bar{x}_{0.75}$ by more than 1.5 * IQR
+
