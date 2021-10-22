@@ -65,7 +65,7 @@ h = max-min/k (h - ширина интервала) <br>
 - Non-weighted form: $s^2$=$\sum_{i=1}^{n} (x_i-\bar{x})^2/(n-1)$
 - Weighted form: $s^2=\sum_{i=1}^n(x_i-\bar{x})^2*n_i/(n-1)$ 
 
-**Standard deviation** - $s=\sqrt{s^2}=\sqrt{\sum_{i=1}^{n} (x_i-\bar{x})^2/(n-1)}$<br>
+**Standard deviation** - $s=\sqrt{s^2}=\sqrt{\sum_{i=1}^{n} (x_i-\bar{x})^2/(n-1)}$ - avarage deviation from a mean<br>
 Notes about variance and standard deviation:
 - variance is expressed without unit of measure;
 - standard deviation is expressed in the same unit of measure as the observed variable;

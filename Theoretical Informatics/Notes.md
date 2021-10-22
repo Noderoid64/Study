@@ -68,6 +68,8 @@ Range(R) = Dom(R^(-1))<br>
 
 **Transitive** - R ⊂ A×A is Transitive if for ∀ a1, a2, a2: (a1,a2) ∈ R && (a1,a2) ∈ R & (a1,a2) ∈ R
 
+**Functions** - из каждого Domain элемента можно прийти только к одному элементу из Range
+
 
 
 

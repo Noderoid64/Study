@@ -43,6 +43,24 @@
 ***
 
 ### 3.	Agile methods (Agile Manifest) in IT project management.
+
+**Methodology** - более глобальна чем sdlc. <br>
+**Agile** - это способ мышление о проекте. Существует много техник, которые реализуют аджаил. Эта методология очень хорошо подходит для быстрых проетов. <br>
+**Cristal model** - "it's agile"<br>
+**Dynamic System Development Model (DSDM)** - <br>
+**Feature Driven Development (FDD)** - сперва делаешь фичу, а потом анализируешь и пишешь тесты (деволт)<br>
+**Extreme Programming (XP)** - для одной фичи. Когда все сидят в комнате и быстро делают фичу. Задача не сделать быстро, а сделать очень качественно. Тестер сидит рядом с тобой и башник.<br>
+**Information Technology Infrastructure Library (ITIL)** - сборка лучших практик проджект менеджмента.<br>
+**Scrum** - agile methodology <br>
+   - Product owner - чувак юзер, который хочет кучу фичей
+   - Product backlog
+   - Sprint Planing - берем и раскидываем беклог по спринтам.
+   - Sprint - максимум месяц, но норма это 1-2 недели.
+   - Scrum master - чел, который решает человеческие конфликты. ?
+   - Sprint review - смотрим, кто что сделал, понимаем почему не сделали.
+   - Sprint retrospective - говорим о тем, что мы делаем плохо.
+   - Daily scrum - говорим о том, кто что делает и какие проблемы есть.
+**Spiral** - waterfal. 
 ### 4.	Project planning (logical framework, time and source analysis).
 ### 5.	IT project and analysis phase (Use Case models).
 ### 6.	IT project and development phase (SW development, time and performance prediction).
