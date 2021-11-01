@@ -72,5 +72,20 @@
 
 **Association end name** - роль одного из классов ассоциации.
 
+### 3.2.4 Ordering
+Иногда можешь повесить "{ordered}" на конец ассоциации "many". Показывает, что нам важен порядок и НЕТ дубликатов.
+
+### 3.2.5 Bags and Sequences
+**{Bag}** - {nonordered, duplicates} <br>
+**{Ordered}** - {ordered, noDuplicated}<br>
+**{Sequence}** - {ordered, duplicates}<br>
+
+### 3.2.7 Qualified Associations
+Используем в ассоциациях "many". Это дополнительный прямоугольник от которого выходит стрелка ассоциации и в нем написан атрибут по которому можно однозначно определить объект из части "many". В этом случае звездочка в части "many" заменяется на 0..1 или 1 
+
+
+### 4.4 Aggregation
+**Aggregation** - 
+
 
 
